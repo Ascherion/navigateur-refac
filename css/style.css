@@ -1,0 +1,33 @@
+body {
+  background-image: url("../images/Fabulous.gif"); }
+
+.jumbotron {
+  margin-top: 50px;
+  background-color: pink; }
+
+li .fa-folder {
+  color: blue; }
+li .fa-file {
+  color: pink; }
+
+.folder:hover {
+  color: green; }
+
+.file:hover {
+  color: red; }
+
+@media screen and (max-width: 760px) {
+  h1 {
+    font-size: 2em; } }
+h1 {
+  background-color: pink;
+  border-radius: 10px;
+  margin-top: 25px;
+  margin-bottom: 30px; }
+  h1:hover {
+    color: red; }
+
+#chemin {
+  text-align: center; }
+
+/*# sourceMappingURL=style.css.map */
